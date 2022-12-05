@@ -1,0 +1,3 @@
+com\mycompany\client\connectInputMessage.class
+com\mycompany\client\Client.class
+com\mycompany\client\receiveMessageFromServer.class
